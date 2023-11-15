@@ -83,6 +83,9 @@ For reference, the dataset's average feature values are as follows:
 - `pH`: 6.47
 - `Rainfall`: 103.46 mm
 
+  ![Untitled](https://github.com/ShivarajPatilaa/Suitable_crop_prediction.yt/assets/131588848/ea363afa-83be-4d82-a0a8-6c2be64a54f1)
+
+
 ## Usage of Results
 The high accuracy achieved by the Random Forest Classifier suggests its suitability for predicting crop types based on the given features. Users can leverage this model for precise crop type prediction in agricultural scenarios.
 
